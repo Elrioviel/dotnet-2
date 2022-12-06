@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfInt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <int>7</int>
+  <int>32</int>
+  <int>44</int>
+  <int>57</int>
+  <int>60</int>
+  <int>75</int>
+  <int>86</int>
+  <int>90</int>
+  <int>93</int>
+  <int>99</int>
+</ArrayOfInt>

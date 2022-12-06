@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\CSharp_11\Task 11\Students\Students.csproj" />
+    <ProjectReference Include="..\..\..\CSharp_11\Task 11\Task 11\BinaryTree.csproj" />
+  </ItemGroup>
+
+</Project>

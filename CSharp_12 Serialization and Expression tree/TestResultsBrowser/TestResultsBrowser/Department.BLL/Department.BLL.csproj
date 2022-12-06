@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Department.DAL\Department.DAL.csproj" />
+    <ProjectReference Include="..\TestResultsBrowserBL\Entities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Department.BLL\Department.BLL.csproj" />
+    <ProjectReference Include="..\Department.DAL\Department.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

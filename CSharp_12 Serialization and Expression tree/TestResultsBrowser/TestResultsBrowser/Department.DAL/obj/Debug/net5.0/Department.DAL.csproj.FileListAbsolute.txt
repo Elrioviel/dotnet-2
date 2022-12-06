@@ -1,0 +1,15 @@
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\bin\Debug\net5.0\Department.DAL.deps.json
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\bin\Debug\net5.0\Department.DAL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\bin\Debug\net5.0\ref\Department.DAL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\bin\Debug\net5.0\Department.DAL.pdb
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\bin\Debug\net5.0\Entities.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\bin\Debug\net5.0\Entities.pdb
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.csproj.AssemblyReference.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.AssemblyInfoInputs.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.AssemblyInfo.cs
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.csproj.CoreCompileInputs.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.csproj.CopyComplete
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\ref\Department.DAL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.DAL\obj\Debug\net5.0\Department.DAL.pdb

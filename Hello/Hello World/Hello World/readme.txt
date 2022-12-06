@@ -1,0 +1,1 @@
+﻿This console application displays "Hello <user name>!" Where <user name> is the environment user domain name.

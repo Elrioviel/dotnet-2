@@ -1,0 +1,12 @@
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\bin\Debug\net5.0\TestResultsBrowserBL.deps.json
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\bin\Debug\net5.0\TestResultsBrowserBL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\bin\Debug\net5.0\ref\TestResultsBrowserBL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\bin\Debug\net5.0\TestResultsBrowserBL.pdb
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\TestResultsBrowserBL.csproj.AssemblyReference.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\TestResultsBrowserBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\TestResultsBrowserBL.AssemblyInfoInputs.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\TestResultsBrowserBL.AssemblyInfo.cs
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\TestResultsBrowserBL.csproj.CoreCompileInputs.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\TestResultsBrowserBL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\ref\TestResultsBrowserBL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\TestResultsBrowserBL\obj\Debug\net5.0\TestResultsBrowserBL.pdb

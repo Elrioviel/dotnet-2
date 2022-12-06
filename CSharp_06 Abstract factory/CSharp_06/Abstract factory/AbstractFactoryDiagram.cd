@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Abstract_factory.Client">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="productA" />
+      <Field Name="productB" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Abstract_factory.PopSecret">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PopSecret.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.651" />
+  </Class>
+  <Class Name="Abstract_factory.ProfessorPopCorn">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProfessorPopCorn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Abstract_factory.SecretSaltedPopCorn">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecretSaltedPopCorn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Abstract_factory.ProfessorSaltedPopCorn">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProfessorSaltedPopCorn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Abstract_factory.SecretSweetPopCorn">
+    <Position X="5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SecretSweetPopCorn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Abstract_factory.ProfessorSweetPopCorn">
+    <Position X="8" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProfessorSweetPopCorn.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Abstract_factory.IPopCornFactory">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPopCornFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Abstract_factory.ISaltedPopCorn">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISaltedPopCorn.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Abstract_factory.ISweetPopCorn">
+    <Position X="6.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISweetPopCorn.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

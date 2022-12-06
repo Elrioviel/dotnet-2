@@ -1,0 +1,17 @@
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\Department.BLL.deps.json
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\Department.BLL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\ref\Department.BLL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\Department.BLL.pdb
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\Department.DAL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\Entities.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\Department.DAL.pdb
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\bin\Debug\net5.0\Entities.pdb
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.csproj.AssemblyReference.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.AssemblyInfoInputs.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.AssemblyInfo.cs
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.csproj.CoreCompileInputs.cache
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.csproj.CopyComplete
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\ref\Department.BLL.dll
+C:\Netlab_GhaliaDahech\Git\CSharp\CSharp_12\TestResultsBrowser\TestResultsBrowser\Department.BLL\obj\Debug\net5.0\Department.BLL.pdb
